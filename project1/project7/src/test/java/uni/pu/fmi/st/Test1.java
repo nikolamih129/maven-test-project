@@ -8,7 +8,7 @@ public class Test1 {
 	public void test() throws InterruptedException
 	{
 		System.out.println("-------Start Test1------");
-		Thread.sleep(2000);
+		Thread.sleep(3500);
 		System.out.println("-------Stop Test1------");
 		
 	}
